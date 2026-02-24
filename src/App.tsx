@@ -56,8 +56,35 @@ function App() {
       </p>
       <a href={DRIVE_MATERIALES} target="_blank">
         👉 Ver otros materiales
-      </a>
+      </a><section style={{ marginTop: '1.5rem' }}>
+  <h2>🤖 Tutor virtual para el estudio autodidacta</h2>
 
+  <p>
+    Ingresa al siguiente enlace para estudiar con el tutor del Círculo de Estudio:
+  </p>
+
+  <a
+    href="https://chatgpt.com/g/g-699d15774c748191825fac5dc34a5e99-circulo-de-estudio-y-asesoria-usicamm-2026-2027"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    👉 Acceder al tutor virtual de estudio
+  </a>
+
+  <h3 style={{ marginTop: '1rem' }}>📝 Recomendaciones de uso</h3>
+
+  <ul>
+    <li>Inicia sesión con tu cuenta antes de comenzar.</li>
+    <li>Escribe el tema que estás estudiando y tu nivel.</li>
+    <li>Pide ejemplos, resúmenes o actividades.</li>
+    <li>Si no entiendes, vuelve a preguntar.</li>
+    <li>Usa el tutor como apoyo, no para copiar tareas.</li>
+  </ul>
+
+  <p style={{ fontStyle: 'italic' }}>
+    Este tutor es un apoyo para tu aprendizaje autónomo.
+  </p>
+</section>
     </div>
   );
 }
