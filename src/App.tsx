@@ -23,7 +23,7 @@ function App() {
 
       <h2>📘 Guías de estudio</h2>
       <p>
-        Material de apoyo para el examen USICAMM. Acceso exclusivo para alumnos inscritos.
+        Material de apoyo para el examen USICAMM y presentaciones trabajadas durante las sesiones. Acceso exclusivo para alumnos inscritos.
       </p>
       <p style={{ fontSize: "13px", color: "#666" }}>
         Última actualización: Febrero 2026
